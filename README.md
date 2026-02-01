@@ -1,35 +1,166 @@
-![logo](https://github.com/Md-E-I-Emamul/Md-E-I-Emamul/blob/main/Black%20Futuristic%20Animated%20Programmer%20Presentation.png)
+![Header](https://github.com/Md-E-I-Emamul/Md-E-I-Emamul/blob/main/Black%20Futuristic%20Animated%20Programmer%20Presentation.png)
 
-<h1 align="center">Hi 👋 Visitors, I'm MD. Emamul Islam Emon</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<h1 align="center">Hi 👋, I'm MD. Emamul Islam Emon</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-e-i-emamul&label=Profile%20views&color=0e75b6&style=flat" alt="md-e-i-emamul" /> </p>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Md-E-I-Emamul?tab=repositories&q=&type=public&language=&sort=](https://github.com/Md-E-I-Emamul?tab=repositories&q=&type=public&language=&sort=)
-
-- 💬 Ask me about **DSA, OPPS Concepts.**
-
-- 📫 How to reach me **mdemamulislamemon0008@gmail.com**
-
-- ⚡ Fun fact **I am Serious about time and Pomodaro technique**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-emamul-islam-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-emamul-islam-emon" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/red_fox_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="red_fox_007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdemamulislamem2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdemamulislamem2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md__e__i__emamul0008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md__e__i__emamul0008" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Responsive+Applications;Turning+Ideas+into+Reality;Passionate+Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-e-i-emamul&show_icons=true&locale=en&layout=compact" alt="md-e-i-emamul" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-e-i-emamul&show_icons=true&locale=en" alt="md-e-i-emamul" /></p>
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-e-i-emamul&" alt="md-e-i-emamul" /></p>
+- 🎯 I can **Build Responsive Applications** and bring ideas to real visualization
+- 💡 I love **Problem Solving** and tackling complex challenges
+- 🌱 Currently learning **Web Development** and expanding my tech stack
+- 🌐 **Portfolio:** [View My Work](https://md-e-i-emamul.github.io/Portfolio/index.html)
+- 👨‍💻 **All Projects:** [My Repositories](https://github.com/Md-E-I-Emamul?tab=repositories&q=&type=public&language=&sort=)
+- 📫 **Email:** mdemamulislamemon0008@gmail.com
+
+<br clear="right"/>
+
+<br>
+
+## 🛠️ Technical Skills
+
+### 💻 Frontend Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>Core Expertise:</b> Responsive Web Design • UI/UX Implementation • Modern CSS Frameworks
+</p>
+
+---
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>Core Expertise:</b> RESTful API Development • Server-side Architecture • Microservices
+</p>
+
+---
+
+### 🔧 Development Stacks
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>MERN Stack</b> • <b>Spring Boot Stack</b>
+</p>
+
+---
+
+### 🎯 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>Focus:</b> Data Structures • Algorithms • Problem Solving
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>SQL:</b> MySQL, PostgreSQL &nbsp; | &nbsp; <b>NoSQL:</b> MongoDB
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> AWS Basics • Version Control • Cloud Computing Fundamentals
+</p>
+
+---
+
+### 📚 Other Technologies
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <b>Mobile Development:</b> Flutter, Kotlin &nbsp; | &nbsp; <b>CS Fundamentals:</b> Networking, Operating Systems
+</p>
+
+---
+
+### 🌍 Spoken Languages
+<p align="center">
+  <b>🇬🇧 English</b> &nbsp; • &nbsp; <b>🇧🇩 Bangla</b> &nbsp; • &nbsp; <b>🇮🇳 Hindi</b> &nbsp; • &nbsp; <b>🇩🇪 German</b> (Learning)
+</p>
+
+<br>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://md-e-i-emamul.github.io/Portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mdemamulislamemon0008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Add more social links as needed:
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="your-twitter-url" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  -->
+</p>
+
+<br>
+
+## 💼 Open to Opportunities
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-E-I-Emamul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Let's collaborate and build something amazing together! ⚡</b>
+</p>
